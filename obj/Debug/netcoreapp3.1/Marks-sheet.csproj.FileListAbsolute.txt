@@ -1,0 +1,13 @@
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\bin\Debug\netcoreapp3.1\Marks-sheet.exe
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\bin\Debug\netcoreapp3.1\Marks-sheet.deps.json
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\bin\Debug\netcoreapp3.1\Marks-sheet.runtimeconfig.json
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\bin\Debug\netcoreapp3.1\Marks-sheet.runtimeconfig.dev.json
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\bin\Debug\netcoreapp3.1\Marks-sheet.dll
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\bin\Debug\netcoreapp3.1\Marks-sheet.pdb
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.csprojAssemblyReference.cache
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.AssemblyInfoInputs.cache
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.AssemblyInfo.cs
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.dll
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.pdb
+C:\Users\Nabeel Bhatti\source\repos\Marks-sheet\obj\Debug\netcoreapp3.1\Marks-sheet.genruntimeconfig.cache
